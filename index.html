@@ -72,6 +72,10 @@
 				opacity: 1;
 			}
 		</style>
+		
+		<script type="text/javascript" src="javarice/html2canvas.js"></script>
+        <script type="text/javascript" src="javarice/glitch-lib.js"></script>
+        <script type="text/javascript" src="javarice/glitch-execute.js"></script>
 
 	</head>
 	<body>
@@ -79,7 +83,7 @@
 		<div id="fof">
 			<div></div>
 			<canvas></canvas>
-			<h1>You shouldn't be here. Go back Mortal!!</a></h2>
+			<h1>You shouldn't be here yet. Mortal, Turn back!!</a></h2>
 		</div>
 
 		<script>
@@ -230,7 +234,7 @@
 				this.activationTime = time;
 
 				// The speed at which the iris follows the mouse
-				this.irisSpeed = 0.01 + ( Math.random() * 0.2 ) / scale;
+				this.irisSpeed = 0.02 + ( Math.random() * 0.4 ) / scale;
 
 				// The speed at which the eye opens and closes
 				this.blinkSpeed = 0.2 + ( Math.random() * 0.2 );
@@ -337,7 +341,7 @@
 					this.context.translate(this.iris.x*0.1,0);
 					this.context.scale(0.9,1);
 					this.context.strokeStyle = 'rgba(0,0,0,0.5)';
-					this.context.fillStyle = 'rgba(130,50,90,0.9)';
+					this.context.fillStyle = 'rgba(130,50,50,0.9)';
 					this.context.lineWidth = 2;
 					this.context.beginPath();
 					this.context.arc(this.iris.x, this.iris.y, this.iris.size, 0, Math.PI*2, true);
@@ -404,6 +408,13 @@
 			})();
 
 		</script>
+		
+		<script type="text/javascript">
+            window.onload = function() {
+                var gl = Object.create(glitch_exec);
+                gl.start(document.body);
+            }
+		</script> 		
 
 	</body>
 </html>
