@@ -78,13 +78,29 @@
         <script type="text/javascript" src="javarice/glitch-execute.js"></script>
 
 	</head>
-	<body>
+	<body oncontextmenu="return false;">
+	
+	<audio id="PlayerX" hidden loop>
+		<source src="saffronrice/wrong-place.ogg" type="audio/ogg">
+	</audio>
 
 		<div id="fof">
 			<div></div>
 			<canvas></canvas>
 			<h1>You shouldn't be here yet. Mortal, Turn back!!</a></h2>
 		</div>
+		
+		<script type="text/javascript">
+		// Stanby Trigger for audio every 1 seconds
+		var myIndex = 0;
+		carouselX();
+
+		function carouselX() {
+		document.getElementById("PlayerX").play();
+		<!--alert("CarouselX");-->
+		setTimeout(carouselX, 1000);    
+		}
+		</script>		
 		
 		<script type="text/javascript">
             window.onload = function() {
@@ -118,51 +134,6 @@
 			 *
 			 * @author Hakim El Hattab | http://hakim.se
 			 */
-			 
-			 
-! function() {
-  function detectDevTool(allow) {
-    if (isNaN(+allow)) allow = 100;
-    var start = +new Date();
-    debugger;
-    var end = +new Date();
-    if (isNaN(start) || isNaN(end) || end - start > allow) {
-      alert('DEVTOOLS detected. all operations will be terminated.');
-      document.write('DEVTOOLS detected.');
-    }
-  }
-  if (window.attachEvent) {
-    if (document.readyState === "complete" || document.readyState === "interactive") {
-      detectDevTool();
-      window.attachEvent('onresize', detectDevTool);
-      window.attachEvent('onmousemove', detectDevTool);
-      window.attachEvent('onfocus', detectDevTool);
-      window.attachEvent('onblur', detectDevTool);
-    } else {
-      setTimeout(argument.callee, 0);
-    }
-  } else {
-    window.addEventListener('load', detectDevTool);
-    window.addEventListener('resize', detectDevTool);
-    window.addEventListener('mousemove', detectDevTool);
-    window.addEventListener('focus', detectDevTool);
-    window.addEventListener('blur', detectDevTool);
-  }
-}();
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
 			 
 			(function(){
 
