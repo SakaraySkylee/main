@@ -61,7 +61,7 @@ Each theme includes:
  - 4–6 premium furniture
    Unique guest type with buffs
  - Theme collectibles (visual or functional)
- - Country & Culture Inspired Themes
+ - Country, Culturea and Seaonal Inspired Themes
 	examples only, i could add more if needed
 		Techno Haven - Sci-fi bunkers, neon lightbeds
 		Beast Tamer’s Inn - Bones, animal patterns, clawed or tusked decor
@@ -95,6 +95,7 @@ Each theme includes:
     Legendary	0.25%	                Increased chance via spins
     Seasonal	Limited by event	    Instant access via bundle or pass
 
+
 --------------------------------------------------------------------------------------------------------------
 
 (6) Guest Buff/Drop system
@@ -117,8 +118,9 @@ Each theme includes:
 	
 	When guest leaves esp. of the unique, legendary and seaonal guest has a chance to give random souvenir at a very low chance
 
-    Souvenir	            A chance to get Collectibles furnitures and stuff tied to guest’s theme (tradeable or displayable)
-    Guest NPC	            A chance to get Chibi-style guest that can walk around your haven (like pets that will give bonuses/buffs ^_~ wink this might make the next grow a haven a thing)(tradeable)
+    Souvenir	            A chance to get Collectibles furnitures and stuff tied to guest’s theme (tradeable / displayable /functional) 
+    Guest NPC	            A chance to get Chibi-style guest that can walk around your haven (like pets that will give bonuses/buffs and do stuffs in Haven ^_~ wink this might make the next grow a haven a thing)(tradeable)
+ 
  
 --------------------------------------------------------------------------------------------------------------
    
@@ -140,11 +142,13 @@ Each theme includes:
 	
 Some minor suggestions below...
 
+
 --------------------------------------------------------------------------------------------------------------
 
 (8) Traveler system
 
 	Travelers, will come to your tavern/haven to buy produce... they will not stay on your plot, they will buy produce at large quatity thus guest food choices might suffer
+	
 	
 --------------------------------------------------------------------------------------------------------------
 
@@ -162,8 +166,9 @@ Some minor suggestions below...
 	Allow stairs, wall and more to have other theme based design
 	if Themes will be implemented new types of wall could be added
 
+
 --------------------------------------------------------------------------------------------------------------
-	
+
 (11) Weather Induced buffs/debuffs or events
 	
 	Since weather will be introduce sooner, this are some my suggested weather and its effects
@@ -179,14 +184,27 @@ Some minor suggestions below...
 		Meteor Shower: Rare guests are guaranteed to appear, rare guests leave a souvenir, legendary/Theme guest might drop Guest NPC
 
 
+--------------------------------------------------------------------------------------------------------------
+
 (12) Crops System (more food types)
 
 	With the crop being teased already, i suggest that crops have quality as well
 	from common, rare, excelent, exotic
-	crop can be automatically attended by Guest NPC (see #5)
+	crop can be automatically attended by Guest NPC (see #5~6)
+
+
+--------------------------------------------------------------------------------------------------------------
+
+(13) Random Burlar Event
+
+	During nights there is a chance that a burgler npc will get the money from the safe
+
+
 	
-	
-(13) More furniture (with functions) and decors
+** im using a notepad++ so alignment might be off when viewing the text
+To make the game ingaging, the game must be updated on a weekly basis
+Some suggestion might and could be covered up by some of the previous suggestions already, 
+Most of my suggestions are into cosmetics, guest, and themes... that might sparks interest especially in the Souvenir and Miniature Guest NPC 
 
 
 		
