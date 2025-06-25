@@ -1,0 +1,198 @@
+Build a Haven
+Suggestion
+
+(1). Dual (free/premium Daily Pass / Login Streak System
+- premiums runs in parallel with the free daily pass
+- Players receive daily rewards just by logging in.
+- Rewards scale over time (e.g., Day 7 = rare item).
+
+
+Free Items:
+ Basic furniture (rare/very rare)
+ Theme collectibles (items/furnitures) * will be explaine down the line
+ Resource boosters
+
+Premium + Free Items Daily:
+ 1 exclusive theme item (premium tier)
+ 1 random free-tier item
+ Resource boosters
+
+Resource boosters
+ e.g.
+ 1. warmth heater that lasts 10 mins (1 hrs for premiums), faster guest will warm up
+ 2. bath heater that lasts 10 mins (1 hrs for premiums), faster guest will take a bath or use toiletry
+ 3. food warmers that lasts 10 mins (1 hrs for premiums), faster to make guest full when eating
+ 4. entertainment Boost that last 10 mins (1 hrs for premiums), faster to make entertained
+ 
+--------------------------------------------------------------------------------------------------------------
+ 
+(2) Daily/Weekly Quests
+- Encourages daily play and introduces game systems gradually.
+
+Example Quest Types
+ “Serve 10 guests”
+ “Place 3 Warmth items”
+ “Survive 2 snowstorms (upcoming weather updates”
+ “Build a themed room” * will be explaine down the line
+
+(2a) Gamepasses
+ Extra Guests 1 - Increases guest cap to 40
+ Extra Guests 2 - Increases guest cap to 50
+ Fast Grow 1 - crops will yield faster
+ Guest be with you - Higher chnace to encounter higher tier guest/travelers
+ etc...
+
+--------------------------------------------------------------------------------------------------------------
+
+(3) Loot Crate or Capsule Gacha (Cosmetics Only)
+ Capsule-style random items (themed furniture, emotes, shelf decor)
+ Use timer like every 20 minutes or robux for spins
+ Chances to boost rare, and other rarity guest to arrive
+
+--------------------------------------------------------------------------------------------------------------
+
+(4)* Theme and Theme Rotation System
+- Rotates monthly or seasonally
+- Daily dual login can be updated to showcase current theme
+- Theme inspired maps, furnitures and rooms (and cosmetics)
+
+Each theme includes:
+ - 1–2 free furniture items
+ - 4–6 premium furniture
+   Unique guest type with buffs
+ - Theme collectibles (visual or functional)
+ - Country & Culture Inspired Themes
+	examples only, i could add more if needed
+		Techno Haven - Sci-fi bunkers, neon lightbeds
+		Beast Tamer’s Inn - Bones, animal patterns, clawed or tusked decor
+		Ryokan theme - Tatami floors, sliding doors, paper lanterns, low tables
+		Moroccan Retreat - Mosaic tiles, arched doorways, patterned rugs, hookahs
+		Nordic Lodge - Fur rugs, wooden beams, fire pits, stone walls
+		Haunted Lodge - Halloween season, spider webs, coffins, eerie lights
+		Whimsy Factory - Candy walls, chocolate fountains, pipe decor
+		Wizard Hall - Floating furniture, dorm beds, banners
+		and many more...
+		
+		
+
+--------------------------------------------------------------------------------------------------------------
+
+(5) Guest System Suggestion
+
+ Guest need to replace reading with entertainment, so you can implement other stuffs like watching tv, or singing etc.
+
+ Guest Rarity
+    Common  - Basic travelers; always appear
+	Rare - Slightly unique visuals; higher payout or faster need processing
+	Unique - Theme-based with special visuals and temporary buffs when served
+	Legendary - Extremely rare guests with high gold payout, double rewards
+	Seasonal/Event - Limited-time guests tied to holiday or theme events
+	
+  Rarity	    Free Player Drop Rate	Premium Player Bonus
+    Common	    60%	                    +10%
+    Rare	    30%	                    +15%
+    Unique	    9%	                    Guaranteed via theme pass
+    Legendary	0.25%	                Increased chance via spins
+    Seasonal	Limited by event	    Instant access via bundle or pass
+
+--------------------------------------------------------------------------------------------------------------
+
+(6) Guest Buff/Drop system
+    
+	A Guest/Miniature Guest NPC must have buff on things and stuffs, negative buff might not benifit the game at early stages or not at all
+	e.g.
+	
+    Guest	                Theme	              Buff	                                                    Duration
+    Candy Artisan	        Whimsy Factory	      +5% payout from all guests	                            5 mins
+    Dragon Monk	            Sky Temple	          Warmth items work +15% faster	                            10 mins
+    Phantom Dancer	        Haunted Lodge	      2× souvenir drop rate                                     5 mins
+    Imperial Merchant	    Lunar Palace	      Instantly tips 30g upon leaving	                        Instant
+    Wandering Poet	        Japanese Ryokan	      Sleep bar restores 10% faster	                            Until guest leaves
+    Clocksmith	            Clockwork Manor	      Slows down need decay for all guests	                    5 mins
+    Magic Professor	        Wizard Hall	          One random need instantly fulfilled for next 3 guests	    N/A
+    Sunfire Dancer	        Sunfire Pavilion	  +10% boost to all buff durations	                        10 mins
+    Ghost Chef	            Haunted Lodge	      Food meter fills twice as fast	                        10 mins
+    Frost Bard	            Frozen                Keep	All needs restore 5% faster during snow events	    During Snow
+	
+	
+	When guest leaves esp. of the unique, legendary and seaonal guest has a chance to give random souvenir at a very low chance
+
+    Souvenir	            A chance to get Collectibles furnitures and stuff tied to guest’s theme (tradeable or displayable)
+    Guest NPC	            A chance to get Chibi-style guest that can walk around your haven (like pets that will give bonuses/buffs ^_~ wink this might make the next grow a haven a thing)(tradeable)
+ 
+--------------------------------------------------------------------------------------------------------------
+   
+(7) Guest traits system
+	Guest giving traits to guest will make the game a bit challenging but managable, can be combine with 
+	
+    Lazy	              Sleeps longer, pays more for beds
+    Rushed	              Leaves faster if not served quickly
+    Hungry	              Needs food twice before full
+    Entertainer	          Increases mood of nearby guests
+    Cold-Resistant	      Needs less warmth during cold weather
+    Curious	              Explores more rooms, stays longer
+    Nervous	              More likely to leave if noise is high
+    Wealthy	              Pays more when fully satisfied
+    Night Owl	          Prefers serving during night cycle
+    Clumsy	              Takes longer to fulfill any need
+ 
+    more can be added..... to many on my mind right now
+	
+Some minor suggestions below...
+
+--------------------------------------------------------------------------------------------------------------
+
+(8) Traveler system
+
+	Travelers, will come to your tavern/haven to buy produce... they will not stay on your plot, they will buy produce at large quatity thus guest food choices might suffer
+	
+--------------------------------------------------------------------------------------------------------------
+
+(9) Haven Star Rating System
+
+    Guest will rate your haven based on quality of rooms, satisfaction
+	1 star ~ 5 star haven
+	the higher the haven rating the better compensation/reward gained/ all linked above suggestions
+
+--------------------------------------------------------------------------------------------------------------
+
+(10) Improve Stair, Room Walls, Windows and doors
+    
+	Overhaul the stairs static location and enable it to be rotated
+	Allow stairs, wall and more to have other theme based design
+	if Themes will be implemented new types of wall could be added
+
+--------------------------------------------------------------------------------------------------------------
+	
+(11) Weather Induced buffs/debuffs or events
+	
+	Since weather will be introduce sooner, this are some my suggested weather and its effects
+	
+	    Clear Weather: Guests move slightly faster. Ideal for early-game or base state.
+		Rain: Guests stay indoors longer once inside.
+		Thunderstorm: Higher chance for rare guests seeking shelter.
+		Snowstorm: Special “Winter” guests appear.
+		Strong Wind / Gale: Guests arrive faster - Guests may refuse to stay in open-sided rooms.
+		Fog / Mist: Ghost/Phantom-themed guests appear. - Guests find rooms slower.
+		Heatwave: Guests’ warmth bar fills too fast, Guest will take a shower frequently
+		Lucky Weather: Guests tips more. and chances of rare guest more frequent
+		Meteor Shower: Rare guests are guaranteed to appear, rare guests leave a souvenir, legendary/Theme guest might drop Guest NPC
+
+
+(12) Crops System (more food types)
+
+	With the crop being teased already, i suggest that crops have quality as well
+	from common, rare, excelent, exotic
+	crop can be automatically attended by Guest NPC (see #5)
+	
+	
+(13) More furniture (with functions) and decors
+
+
+		
+		
+
+
+
+
+
